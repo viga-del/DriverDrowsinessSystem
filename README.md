@@ -118,9 +118,6 @@ The drowsiness detection mechanism is based on consecutive frames where eyes are
 - Low-light performance improvements
 - Head pose estimation
 - Raspberry Pi deployment
-- Mobile application integration
-- Driver identity tracking
-- Cloud-based monitoring system
 
 ---
 
